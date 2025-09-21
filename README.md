@@ -8,8 +8,9 @@
 - 💬 Ask me about **React, Node.js,Python,C++**
 
 - 📫 How to reach me **devanshisrivastava164@gmail.com**
+<p align="left">ABOUT ME<br>Passionate Computer Science postgraduate with strong foundations in C++, Data Structures & Algorithms, and Software Engineering. Skilled in Web Development using React.js, Node.js, MySQL, HTML, and CSS. I enjoy solving complex problems, writing clean and efficient code, and building impactful applications while continuously learning modern development practices.</p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Links:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/devansri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/devansri" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/devanshisrivast3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/devanshisrivast3" height="30" width="40" /></a>
