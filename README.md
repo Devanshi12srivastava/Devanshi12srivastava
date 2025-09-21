@@ -8,7 +8,7 @@
 - 💬 Ask me about **React, Node.js,Python,C++**
 
 - 📫 How to reach me **devanshisrivastava164@gmail.com**
-<p align="left"><h3>About me</h3><br>Passionate Computer Science postgraduate with strong foundations in C++, Data Structures & Algorithms, and Software Engineering. Skilled in Web Development using React.js, Node.js, MySQL, HTML, and CSS. I enjoy solving complex problems, writing clean and efficient code, and building impactful applications while continuously learning modern development practices.</p>
+<p align="left"><h3>About me</h3>Passionate Computer Science postgraduate with strong foundations in C++, Data Structures & Algorithms, and Software Engineering. Skilled in Web Development using React.js, Node.js, MySQL, HTML, and CSS. I enjoy solving complex problems, writing clean and efficient code, and building impactful applications while continuously learning modern development practices.</p>
 
 <h3 align="left">Links:</h3>
 <p align="left">
